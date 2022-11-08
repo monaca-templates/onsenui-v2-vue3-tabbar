@@ -1,11 +1,11 @@
 {
   "name": "onsenui-v2-vue3-tabbar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "dependencies": {
     "cordova-plugin-splashscreen": "6.0.0",
     "monaca-plugin-monaca-core": "3.3.1",
-    "onsenui": "2.12.2",
+    "onsenui": "2.12.6",
     "vue": "3.2.40",
     "vue-onsenui": "3.0.0"
   },
