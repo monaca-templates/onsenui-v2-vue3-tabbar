@@ -1,6 +1,6 @@
 {
   "name": "onsenui-v2-vue3-tabbar",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "engines": {
     "node": ">=18.16"
@@ -25,10 +25,12 @@
     }
   },
   "devDependencies": {
-    "cross-env": "^7.0.3",
+    "@vitejs/plugin-legacy": "^4.1.1",
     "@vitejs/plugin-vue": "^4.4.0",
     "eslint": "^8.52.0",
     "eslint-plugin-vue": "^9.18.1",
+    "cross-env": "^7.0.3",
+    "terser": "^5.24.0",
     "vite": "^4.5.0",
     "cordova": "^12.0.0",
     "yargs": "^17.7.2"
