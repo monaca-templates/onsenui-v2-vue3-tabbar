@@ -8,7 +8,7 @@
       position="auto"
       :tabs="tabs"
       :visible="true"
-      v-model:index="activeIndex"
+      v-model:active-index="activeIndex"
     >
     </v-ons-tabbar>
   </v-ons-page>
